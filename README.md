@@ -1,1 +1,1 @@
-# BCIAUT-P300_DualBranched-EEGNet
+# BCIAUT-P300_Branched-EEGNet
